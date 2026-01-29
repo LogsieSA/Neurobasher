@@ -16,3 +16,4 @@
 3. A case which houses all of the nodes.
 4. Diagnostic LEDs to show connection to master clock.
 5. A MIDI keyboard for nodes which do not need to have ultra-tight synchronisation
+6. NICs which have a good reputation when it comes to using PTP, Intel i210/i350s for example.
