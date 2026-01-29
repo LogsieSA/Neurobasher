@@ -2,9 +2,9 @@
 Neurobasher can be best described as a modular synth if it were designed by a broke RHCSA. It functions like a modular synth, but instead of modules, it uses dedicated nodes to produce sounds with SuperCollider that are synced via PTP to avoid the massive NetJack overhead.
 
 # Quick-start guide
-0. Before you get started with Neurobasher, ensure that you have met all the requirements in the prerequisites page.
-1. Once you have gathered the minimum requirements, head over to the BIOS configuration page.
-2. Select and download the images which have the instrument and function that you want.
+0. Before you get started with Neurobasher, ensure that you have met all the requirements in the [prerequisites page](https://github.com/LogsieSA/Neurobasher/blob/main/PREREQUISITES.md).
+1. Once you have gathered the minimum requirements, head over to the [BIOS configuration page](https://github.com/LogsieSA/Neurobasher/blob/main/BIOSCONFIG.md).
+2. Select and download the images from the [images directory](https://github.com/LogsieSA/Neurobasher/tree/main/images) which have the instrument and function that you want.
 3. Learn how to play the instruments that you picked in the last step.
 
 # Final note:
